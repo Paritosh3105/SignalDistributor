@@ -1,9 +1,13 @@
-                    +--------------------+
+                 
+		   +--------------------+
                     |    Input Power     |
                     |      (10 dBm)      |
                     +--------------------+
                              |
                              v
+			Dynamic Amplifier Selector
+			     |
+			     v
                  +-----------------------+
                  |   Fixed Attenuator     |  <--- [Attenuation] ---+
                  |    Gain: -1 dB         |                    |
